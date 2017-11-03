@@ -1,0 +1,22 @@
+.nav-wrapper {
+  background-color: rgb(64, 200, 147) !important;
+}
+
+.brand-logo {
+  padding-left: 5px !important;
+  font-family: Oswald;
+}
+h1, h3 {
+  color: rgb(0, 0, 0);
+}
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+.p-tags {
+  font-size: 40px;
+}
+
+footer {
+  padding-right: 5px;
+}
