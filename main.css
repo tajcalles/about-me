@@ -7,11 +7,15 @@ body {
   margin: 0 !important;
 }
 
+.navbarsize {
+  font-size: 30px;
+}
+
 .brand-logo {
   padding-left: 5px !important;
   font-family: Oswald;
 }
-h1, h3 {
+h1, h2, h3 {
   /*color: rgb(0, 0, 0);*/
   margin: 0 !important;
   padding: 0 !important;
