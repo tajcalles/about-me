@@ -1,5 +1,10 @@
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
 .nav-wrapper {
   background-color: rgb(64, 200, 147) !important;
+  margin: 0 !important;
 }
 
 .brand-logo {
@@ -7,16 +12,41 @@
   font-family: Oswald;
 }
 h1, h3 {
-  color: rgb(0, 0, 0);
-}
-body {
-  font-family: 'Oswald', sans-serif;
+  /*color: rgb(0, 0, 0);*/
+  color: white;
+  margin: 0;
+  padding: 0;
 }
 
 .p-tags {
-  font-size: 40px;
+  font-size: 30px;
+  color: white;
 }
 
 footer {
   padding-right: 5px;
+}
+
+.indexbgpic {
+  background-image: url('indexbackgroundpic.jpg');
+  height: 100vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.biopic {
+  background-image: url('biographypic.jpg');
+  height: 100vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.prevexppic {
+  background-image: url('alaskapexp.jpg');
+  height: 100vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
