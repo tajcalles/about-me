@@ -1,7 +1,10 @@
 body {
   font-family: 'Oswald', sans-serif;
 }
-
+hr {
+  background-color: black;
+  height: 2px !important;
+}
 .nav-wrapper {
   background-color: rgb(64, 200, 147) !important;
   margin: 0 !important;
@@ -16,6 +19,13 @@ h1, h2, h3 {
   margin: 0 !important;
   padding: 0 !important;
 }
+
+.readable {
+  background-color: rgba(168, 168, 168, 0.69);
+  margin-top: 30px;
+  border-radius: 10px;
+}
+
 
 .indexptags {
   font-size: 20px;
